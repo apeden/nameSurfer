@@ -12,7 +12,8 @@ Not ready for installation just yet
 
 ## Usage
 
-```The programme creates a GUI (using the acm library etc) inside of which is a box where you can type in a name. 
+```
+The programme creates a GUI (using the acm library etc) inside of which is a box where you can type in a name. 
 ```
 
 ## Contributing
@@ -22,7 +23,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-Maybe I should also refer you the [Stanford University Terms of Use} (https://www.stanford.edu/site/terms/)
+Maybe I should also refer you the [Stanford University Terms of Use] (https://www.stanford.edu/site/terms/)
 
 
 ## Acknowledgements
