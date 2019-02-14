@@ -23,7 +23,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-Maybe I should also refer you the [Stanford University Terms of Use] (https://www.stanford.edu/site/terms/)
+Maybe I should also refer you to
+[Stanford University Terms of Use](https://www.stanford.edu/site/terms/)
 
 
 ## Acknowledgements
